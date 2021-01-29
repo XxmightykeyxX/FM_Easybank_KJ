@@ -76,6 +76,8 @@
 
   © Easybank. All Rights Reserved
 
+ICH ADDE DANN MAL WAS HIER
+
 
   <!-- <div class="attribution">
     Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
